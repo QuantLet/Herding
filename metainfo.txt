@@ -1,0 +1,14 @@
+Name of Quantlet: 'Herding'
+
+Published in: 'Quantinar Herding'
+
+Description: 'Source codes.'
+
+Submitted:  '28 May 2024'
+
+Keywords: 
+- 'Crypto'
+- 'Herding'
+
+Author: 
+- 'Min-Bin Lin'
