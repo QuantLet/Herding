@@ -14,10 +14,10 @@ Description: Source codes.
 Submitted: 28 May 2024
 
 Keywords: 
-- 'Crypto
-- 'Herding
+- Crypto
+- Herding
 
 Author: 
-- 'Min-Bin Lin
+- Min-Bin Lin', 20260323 Haiyao NI
 
 ```
